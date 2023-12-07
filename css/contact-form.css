@@ -1,0 +1,460 @@
+/* screen - contact-form */
+
+.contact-form {
+  align-items: flex-start;
+  background-color: #05883cbf;
+  display: flex;
+  gap: 21px;
+  height: 1095px;
+  padding: 63px 21px;
+  width: 1540px;
+}
+
+.contact-form .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 959px;
+  width: 662px;
+}
+
+.contact-form .dites-nous-comment-n {
+  color: transparent;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 287px;
+  width: 662px;
+}
+
+.contact-form .span {
+  color: var(--gallery);
+}
+
+.contact-form .span1 {
+  color: var(--blue);
+}
+
+.contact-form .frame-20 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  height: 295px;
+  margin-left: 43px;
+  margin-top: 35px;
+  position: relative;
+  width: 472px;
+}
+
+.contact-form .frame-18 {
+  align-items: center;
+  border-radius: 16px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  padding: 24px 128px 24px 24px;
+  position: relative;
+}
+
+.contact-form .e-fill {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.contact-form .digi-connectgmailcom {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -3.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.contact-form .frame-17 {
+  align-items: center;
+  background-color: var(--blue);
+  border: 3px solid;
+  border-radius: 16px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  padding: 24px 256px 24px 24px;
+  position: relative;
+}
+
+.contact-form .text-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -3.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.contact-form .frame-19 {
+  align-items: center;
+  border-radius: 16px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  margin-right: -69.00px;
+  padding: 24px 128px 24px 24px;
+  position: relative;
+}
+
+.contact-form .vector {
+  height: 28px;
+  position: relative;
+  width: 24px;
+}
+
+.contact-form .address {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -3.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.contact-form .group-2 {
+  height: 89px;
+  margin-left: 90.0px;
+  margin-top: 253px;
+  min-width: 206px;
+}
+
+.contact-form .frame-24 {
+  height: 90px;
+  margin-bottom: -0.71px;
+  position: relative;
+  width: 66px;
+}
+
+.contact-form .group-1 {
+  background-color: var(--blue);
+  border-radius: 33.48px;
+  height: 67px;
+  margin-left: 7px;
+  min-width: 67px;
+  padding: 14.3px 14.7px;
+}
+
+.contact-form .instagram {
+  height: 37px;
+  width: 37px;
+}
+
+.contact-form .vector-1 {
+  height: 48px;
+  margin-bottom: 4.29px;
+  margin-left: 8px;
+  width: 58px;
+}
+
+.contact-form .frame-1-1 {
+  align-items: flex-start;
+  background-color: var(--gallery);
+  border-radius: 24px;
+  display: flex;
+  flex-direction: column;
+  height: 937px;
+  margin-top: 1px;
+  overflow: hidden;
+  padding: 48px;
+  width: 733px;
+}
+
+.contact-form .frame-22 {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 64px;
+  margin-left: 5px;
+  position: relative;
+}
+
+.contact-form .frame-15 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+}
+
+.contact-form .je-suis-intress-par {
+  color: #2e0249;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.contact-form .frame-14 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+}
+
+.contact-form .frame-8 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+  width: 604px;
+}
+
+.contact-form .frame-2 {
+  align-items: flex-start;
+  background-color: var(--blue);
+  border-radius: 8px;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  padding: 16px;
+  position: relative;
+}
+
+.contact-form .marketing-digital {
+  color: var(--gallery);
+  flex: 1;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -3.00px;
+  position: relative;
+  text-align: center;
+}
+
+.contact-form .frame {
+  align-items: flex-start;
+  border: 2px solid;
+  border-color: var(--cherry-pie);
+  border-radius: 8px;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 10px;
+  padding: 16px;
+  position: relative;
+}
+
+.contact-form .direction-artistique {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: center;
+}
+
+.contact-form .graphisme {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: center;
+}
+
+.contact-form .frame-9 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+}
+
+.contact-form .frame-6 {
+  align-items: flex-start;
+  border: 2px solid;
+  border-color: var(--cherry-pie);
+  border-radius: 8px;
+  display: flex;
+  gap: 10px;
+  justify-content: space-around;
+  padding: 16px;
+  position: relative;
+  width: 182px;
+}
+
+.contact-form .dveloppeur {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.contact-form .frame-7 {
+  align-items: flex-start;
+  border: 2px solid;
+  border-color: var(--cherry-pie);
+  border-radius: 8px;
+  display: flex;
+  gap: 10px;
+  justify-content: space-around;
+  padding: 16px;
+  position: relative;
+  width: 89px;
+}
+
+.contact-form .autre {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.contact-form .frame-13 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 64px;
+  position: relative;
+}
+
+.contact-form .frame-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+}
+
+.contact-form .ton-nom {
+  color: var(--gray4);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.contact-form .line {
+  height: 3px;
+  position: relative;
+  width: 600px;
+}
+
+.contact-form .ton {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.contact-form .je-suis {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 28px;
+  margin-top: 29px;
+  min-height: 18px;
+}
+
+.contact-form .check-box-false-default-true {
+  align-items: center;
+  display: inline-flex;
+  gap: 8px;
+  margin-left: 20px;
+  margin-top: 13px;
+  position: relative;
+}
+
+.contact-form .check-box-variant16 {
+  border-color: var(--gray6);
+}
+
+.contact-form .label {
+  color: var(--gray2);
+  font-family: var(--font-family-poppins);
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.contact-form .check-box-false-hover-true {
+  align-items: center;
+  display: inline-flex;
+  gap: 8px;
+  margin-left: 18px;
+  margin-top: 18px;
+  position: relative;
+}
+
+.contact-form .check-box-variant12 {
+  border-color: var(--gray4);
+}
+
+.contact-form .frame-21 {
+  align-items: center;
+  background-color: var(--blue);
+  border-radius: 16px;
+  cursor: pointer;
+  display: inline-flex;
+  gap: 16px;
+  margin-top: 74px;
+  padding: 24px 64px;
+  position: relative;
+}
+
+.contact-form .vector-2 {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.contact-form .envoyer {
+  color: var(--gallery);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.contact-form .check-box {
+  border: 1px solid;
+  border-radius: 4px;
+  height: 20px;
+  position: relative;
+  width: 20px;
+}
+
+.contact-form .group {
+  align-items: flex-end;
+  display: flex;
+}
